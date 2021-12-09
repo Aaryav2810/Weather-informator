@@ -6,3 +6,6 @@ Provides the detail about weather conditions in a city by using API (openweather
 Will continue to develop on this . 
 
 Libraries Used: tkinter , requests , time .
+
+To make this work on your system you need to enter your api key in the code provided in 'first' file. 
+To get the api key just login into open weather map and copy the key from 'My keys' section . 
